@@ -10,11 +10,23 @@
 ※ご連絡はTwitter DMですと反応が早いです。
 
 ## スキル
-### 言語
-- C#
+### プログラミング言語
+- C# (Unity中心 .NETほんのすこし)
 - C++ (Arduino)
 
-## 言語
+### CAD等
+- Autodesk Fusion360
+  - 3Dプリンタを用いた小物類の設計と出力
+- DesignSpark Mechanical
+- KiCad
+  - 基板設計-PCB業者へ発注までひととおり
+
+### 電子回路
+- Arduino
+  - 特定の要件を満たすワンオフの回路を組むのが得意です
+    - 詳細は[以前の職業等](#以前の職業等)より
+
+## 自然言語
 
 - 日本語
   - ネイティブ
@@ -24,6 +36,14 @@
 ## 強み
 
 - 実体験から必要なものを発想し、製作する
+- 基板設計から筐体設計までワンストップで行える
+
+## 興味のあること
+
+- VR
+  - VR-SNSでのプレゼンス向上手法
+  - VRとリアルワールドの相互接続
+
 
 ## 職務経歴
 
@@ -61,6 +81,14 @@
 
 2014年～2018年頃までは個人事業主としてスポットで案件を受注していました。
 
+案件例:
+- NHK様 [「旧・陸中山田駅　ＡＲ再現プロジェクト」](https://www.nhk-ep.co.jp/arproject-20180810/)
+  - (発注: ホロラボ・デザイニウム様) 生中継で使用するHoloLensのセットアップのサポートを行いました
+- リクルート・テクノロジー様 [「ATL-MR リアル-バーチャル勉強会」](https://atl-hiroo.recruit-tech.co.jp/2018/11/real-virtual-meeting/)
+  - (発注: デザイニウム様) HoloLens経由でリアル-バーチャル間で登壇しました
+- VR危険予知動画向けの連動コントロールボックス
+  - PCに接続し、指定されたタイミングでサンダーのスイッチをON-OFFするもの
+
 それ以前は某ソーシャルゲーム会社で情シス・総務業務をしていました。
 
 ## 課外活動
@@ -76,3 +104,4 @@
 ### 書いた記事
 * [LookingGlass Portrait 逆引きQ&A](https://qiita.com/kleus_balut/items/fea229abcfca1654e40a)
 * [VR向けUI/UXの検討と、その歴史](https://qiita.com/kleus_balut/items/bc7cb294044e303e6940) 
+* [携帯ゲーム機型PC「GPD WIN」で、おすすめ名作フリーゲーム10選をプレイレビュー](http://www.moguragames.com/entry/gpd-win-freegame/)
