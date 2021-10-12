@@ -36,34 +36,44 @@
 ## 強み
 
 - 実体験から必要なものを発想し、製作する
-- 基板設計から筐体設計までワンストップで行える
+  - 例： [VIVEBatteryInfo](https://kleusbalut.booth.pm/items/969809) 
+- 基板設計から筐体設計、出力までワンストップで行える
+  - 例： [エアガン用残弾カウンター](https://twitter.com/kleus_balut/status/744148231492247552?s=20)
+- 初心者向け技術記事の執筆
+  - 例： [DMM VR ConnectのマイアバターをLooking Glass Portraitに表示するアプリをつくる](https://inside.dmm.com/entry/2021/05/21/DMMVRConnect06)
 
 ## 興味のあること
 
 - VR
   - VR-SNSでのプレゼンス向上手法
+  - VRアバターによるユニフォーム効果の検証
   - VRとリアルワールドの相互接続
 
 
 ## 職務経歴
 
-### 2019/04 - 現在 : 合同会社DMM.com VRlab
-職務: VRエンジニア
+### 2019/04 - 現在 : 合同会社DMM.com VRlab (VR事業部)
+職務: エンジニア
 
 #### 職務内容
 
 - VR開発
-  - [BOW MAN](https://store.steampowered.com/app/1159480/BOW_MAN/) カジュアルVRゲーム
+  - [Connect Chat](https://store.steampowered.com/app/1424930/Connect_Chat/) VR-SNS
+    - プロジェクト立上時参加 (VR-SNSユーザー観点の共有)
+    - リリース後の細かなバグ修正
+    - UI/UX改善
+      - スティック移動・スムーズ回転実装 (ConnectChat 2021.3.4)
+  - [BOW MAN (PC版)](https://store.steampowered.com/app/1159480/BOW_MAN/) カジュアルVRゲーム
     - UI実装
     - 簡単なビルド・パブリッシングツール作成
     - パブリッシング (Oculus/Steam)
+  
   - [No Sushi, No Life](https://store.steampowered.com/app/1481430/No_Sushi_No_Life/) カジュアルVRゲーム
     - メインプログラム
     - ディレクションの一部
+      - 詳細仕様策定
+      - スケジューリング など
     - パブリッシング (Steam)
-  - [Connect Chat](https://store.steampowered.com/app/1424930/Connect_Chat/) VR-SNS
-    - プロジェクト立上時参加 (VR-SNSユーザー観点の共有)
-    - リリース後のバグ修正
 - SDK開発
   - [DMM VR Connect SDK](https://github.com/dmm-com/vrlab-dvrsdk)
     - 機能追加
@@ -106,6 +116,7 @@
 ### 個人プロジェクト
 * [VIVEBatteryInfo](https://kleusbalut.booth.pm/items/969809) VRChat等VRアプリで使える、コントローラー/トラッカーバッテリー残量表示アプリ＋α
 * [アバターARカメラ撮影アプリ](https://kleus-balut.fanbox.cc/posts/1860508) Unity AR Foundationで作られたクロスプラットフォームのアバターARカメラ撮影アプリ
+* その他、[3Dプリンタおよび電子工作による製作物](https://twitter.com/i/moment_maker/preview/791109179855347712)
 
 ### 過去の登壇資料
 *  歌舞伎座.tech#15 LT [Unity初心者がソーシャルVR向けの補助ツールを作った話](https://youtu.be/OiQqKWxRLE4)
