@@ -58,22 +58,25 @@
 #### 職務内容
 
 - VR開発
-  - [Connect Chat](https://store.steampowered.com/app/1424930/Connect_Chat/) VR-SNS
-    - プロジェクト立上時参加 (VR-SNSユーザー観点の共有)
-    - リリース後の細かなバグ修正
-    - UI/UX改善
-      - スティック移動・スムーズ回転実装 (ConnectChat 2021.3.4)
-  - [BOW MAN (PC版)](https://store.steampowered.com/app/1159480/BOW_MAN/) カジュアルVRゲーム
+  - [Connect Chat](https://store.steampowered.com/app/1424930/Connect_Chat/) VR-SNS/イベントプラットフォーム
+    - プロジェクト立上時アドバイザー (VR-SNSユーザー視点でのアドバイス)
+    - ライブ本番オペレーション
+    - 開発業務
+      - 細かなバグ修正対応
+      - UI刷新対応
+  - [販売終了] [BOW MAN (PC版)](https://store.steampowered.com/app/1159480/BOW_MAN/) カジュアルVRゲーム
     - UI実装
     - 簡単なビルド・パブリッシングツール作成
     - パブリッシング (Oculus/Steam)
+    - 所属本部の移籍・方針転換により終売
   
-  - [No Sushi, No Life](https://store.steampowered.com/app/1481430/No_Sushi_No_Life/) カジュアルVRゲーム
+  - [販売終了] [No Sushi, No Life](https://store.steampowered.com/app/1481430/No_Sushi_No_Life/) カジュアルVRゲーム
     - メインプログラム
     - ディレクションの一部
       - 詳細仕様策定
       - スケジューリング など
     - パブリッシング (Steam)
+    - 所属本部の移籍・方針転換により終売
 - SDK開発
   - [DMM VR Connect SDK](https://github.com/dmm-com/vrlab-dvrsdk)
     - 機能追加
