@@ -60,9 +60,10 @@
 - VR開発
   - [Connect Chat](https://store.steampowered.com/app/1424930/Connect_Chat/) VR-SNS/イベントプラットフォーム
     - プロジェクト立上時アドバイザー (VR-SNSユーザー視点でのアドバイス)
-    - ライブ本番オペレーション
+    - VRライブ本番オペレーション
+    - YouTubeLive配信オペレーション
     - 開発業務
-      - 細かなバグ修正対応
+      - バグ修正対応
       - UI刷新対応
   - [販売終了] [BOW MAN (PC版)](https://store.steampowered.com/app/1159480/BOW_MAN/) カジュアルVRゲーム
     - UI実装
@@ -82,9 +83,9 @@
     - 機能追加
     - サンプル追加
 - VR R&D (プロトタイピング)
-  - 社内検証用ゲーム等作成 (1案件あたり2-4週間を3-4案件)
+  - 社内検証用モック作成 (1案件あたり2-4週間を3-4案件)
 
-- 記事執筆
+- 業務での記事執筆
   - [DMM VR ConnectのマイアバターをLooking Glass Portraitに表示するアプリをつくる](https://inside.dmm.com/entry/2021/05/21/DMMVRConnect06)
   - [DMM VR labのCES 2020参加レポート](https://inside.dmm.com/entry/2020/01/10/CES2020-DMMVRlab) ※[パトリック](https://twitter.com/PatrickClacey)と共同編集
   - [バ美肉エンジニアのXRDC2019参加レポート](https://inside.dmm.com/entry/2019/11/08/xrdc-2019-vengineer-vrlab) ※メンバーと共同編集
