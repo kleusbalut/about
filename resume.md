@@ -14,6 +14,10 @@
 - C# (Unity中心 .NETほんのすこし)
 - C++ (Arduino)
 
+### 開発手法
+ - スクラム開発
+ - Git(GitHub)
+
 ### CAD等
 - Autodesk Fusion360
   - 3Dプリンタを用いた小物類の設計と出力
