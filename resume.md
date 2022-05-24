@@ -68,7 +68,7 @@
 #### VR開発
 
 ---
-- [Connect Chat](https://store.steampowered.com/app/1424930/Connect_Chat/) VR-SNS/VRイベントプラットフォーム
+- **[Connect Chat](https://store.steampowered.com/app/1424930/Connect_Chat/) VR-SNS/VRイベントプラットフォーム**
 
   <a href="https://connect-chat.vrlab.dmm.com/" target="_blank">
     <img src="./images/DMMConnectChatKeyVisual.jpg" width="480">
@@ -87,7 +87,7 @@
     - プロジェクト立上時の原案参加 (VR-SNSユーザー視点でのアドバイスなど)
 
 ---
-- [販売終了] [BOW MAN (PC版)](https://store.steampowered.com/app/1159480/BOW_MAN/) カジュアルVRゲーム
+- **[販売終了] [BOW MAN (PC版)](https://store.steampowered.com/app/1159480/BOW_MAN/) カジュアルVRゲーム**
 
   <a href="https://bowman.vrlab.dmm.com/ja/" target="_blank">
     <img src="./images/BOWMAN_Thumbnail.png" width="480">
@@ -107,7 +107,7 @@
   ※所属本部の移籍・方針転換により終売
 
 ---
-- [販売終了] [No Sushi, No Life](https://store.steampowered.com/app/1481430/No_Sushi_No_Life/) カジュアルVRゲーム
+- **[販売終了] [No Sushi, No Life](https://store.steampowered.com/app/1481430/No_Sushi_No_Life/) カジュアルVRゲーム**
 
   <a href="https://store.steampowered.com/app/1481430/No_Sushi_No_Life/" target="_blank">
     <img src="./images/SUSHI_Thumbnail.png" width="480">
@@ -131,7 +131,7 @@
 ---
 #### SDK開発
 
-- [DMM VR Connect SDK](https://github.com/dmm-com/vrlab-dvrsdk)
+- **[DMM VR Connect SDK](https://github.com/dmm-com/vrlab-dvrsdk)**
 
   <a href="https://connect.vrlab.dmm.com/" target="_blank">
     <img src="./images/DMMVRConnectLogo.png" width="480">
