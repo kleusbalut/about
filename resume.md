@@ -59,11 +59,22 @@
 
 ### 2019/04 - 現在 : 合同会社DMM.com VRlab (VR事業部)
 
+<a href="https://vrlab.dmm.com/" target="_blank">
+  <img src="./images/DMMVRlab-square1@4x.png" width="128">
+</a>
+
 職務 : エンジニア
 
 #### VR開発
 
+---
 - [Connect Chat](https://store.steampowered.com/app/1424930/Connect_Chat/) VR-SNS/VRイベントプラットフォーム
+
+  <a href="https://connect-chat.vrlab.dmm.com/" target="_blank">
+    <img src="./images/DMMConnectChatKeyVisual.jpg" width="480">
+  </a>
+  <!-- めっちゃかわゆ -->
+
   - 期間 : 2021/07 - 現在
   - 担当 : Unityエンジニア
   - 環境 : Unity, C#
@@ -75,7 +86,13 @@
       - YouTubeLive配信
     - プロジェクト立上時の原案参加 (VR-SNSユーザー視点でのアドバイスなど)
 
+---
 - [販売終了] [BOW MAN (PC版)](https://store.steampowered.com/app/1159480/BOW_MAN/) カジュアルVRゲーム
+
+  <a href="https://bowman.vrlab.dmm.com/ja/" target="_blank">
+    <img src="./images/BOWMAN_Thumbnail.png" width="480">
+  </a>
+
   - 期間 : 2019/04 - 2019/12
   - 担当 : Unityエンジニア
   - 環境 : Unity, C#
@@ -89,7 +106,13 @@
     主に最初期のプロトタイプ作成、簡易な社内向けツール作成、UI実装などを担当しました。   
   ※所属本部の移籍・方針転換により終売
 
+---
 - [販売終了] [No Sushi, No Life](https://store.steampowered.com/app/1481430/No_Sushi_No_Life/) カジュアルVRゲーム
+
+  <a href="https://store.steampowered.com/app/1481430/No_Sushi_No_Life/" target="_blank">
+    <img src="./images/SUSHI_Thumbnail.png" width="480">
+  </a>
+
   - 期間 : 2019/10 - 2020/01
   - 担当 : Unityエンジニア
   - 環境 : Unity, C#
@@ -105,14 +128,21 @@
     主にメインプログラムを担当しました。   
     ※所属本部の移籍・方針転換により終売
 
+---
 #### SDK開発
-  - [DMM VR Connect SDK](https://github.com/dmm-com/vrlab-dvrsdk)
-    - 期間 : 2019/12 - 2021/06
-    - 担当 : Unityエンジニア
-    - 環境 : Unity, C#
-    - 主な担当業務
-      - 機能開発
-      - サンプル追加
+
+- [DMM VR Connect SDK](https://github.com/dmm-com/vrlab-dvrsdk)
+
+  <a href="https://connect.vrlab.dmm.com/" target="_blank">
+    <img src="./images/DMMVRConnectLogo.png" width="480">
+  </a>
+
+  - 期間 : 2019/12 - 2021/06
+  - 担当 : Unityエンジニア
+  - 環境 : Unity, C#
+  - 主な担当業務
+    - 機能開発
+    - サンプル追加
 
 #### VR R&D (プロトタイピング)
 
@@ -128,6 +158,9 @@
 
 #### その他業務
   - 備品管理
+  - 亀山会長VRアバターシステムのセットアップ ([VirtualMotionCapture](https://vmc.info/)使用)
+    - VRアバターシステムのプロト作成 (Zoomのアバター機能のようなもの)
+  - 社内VR体験会開催 (社員および取締役以上向け)
   - 社内業務取り次ぎ
 
 ## 以前の仕事
