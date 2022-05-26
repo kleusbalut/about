@@ -6,6 +6,7 @@
 |---|-----|
 |Name|クレウス (kleus balut)|
 |Twitter|[@kleus_balut](https://twitter.com/kleus_balut)|
+|VRChat|kleus_balut|
 
 ※ご連絡はTwitter DMですと反応が早いです。
 
@@ -25,7 +26,7 @@
 ### CAD等
 
 - Autodesk Fusion360
-  - 3Dプリンタを用いた小物類の設計と出力。
+  - 3Dプリンタを用いた小物類の設計と出力。  
   一部のモデルは[弊Booth](https://kleusbalut.booth.pm/items/942987)にて3Dプリント出力販売しています。
 - DesignSpark Mechanical
 - KiCad
@@ -39,11 +40,14 @@
 ## 強み
 
 - 実体験から必要なものを発想し、製作することができる
-  - 例： [VIVEBatteryInfo](https://kleusbalut.booth.pm/items/969809) 
+  - 例 : [VIVEBatteryInfo](https://kleusbalut.booth.pm/items/969809) 
 - 基板設計から筐体設計、出力までワンストップで行える
-  - 例： [エアガン用残弾カウンター](https://twitter.com/kleus_balut/status/744148231492247552?s=20)
-- 初心者向け技術記事の執筆
-  - 例： [DMM VR ConnectのマイアバターをLooking Glass Portraitに表示するアプリをつくる](https://inside.dmm.com/entry/2021/05/21/DMMVRConnect06)
+  - 例 : [エアガン用残弾カウンター](https://twitter.com/kleus_balut/status/744148231492247552?s=20)
+- 外部向けの技術記事の執筆ができる
+  - 例 : [DMM VR ConnectのマイアバターをLooking Glass Portraitに表示するアプリをつくる](https://inside.dmm.com/entry/2021/05/21/DMMVRConnect06)
+- 本番に強い
+  - 例 : VRライブ本番のタイムキーパーや、テレビの生中継用機材の準備、VR体験会の対応、VR登壇など
+    - 本番までに必要な機材などを選定し準備のうえ、基本的にバックアップ体制(プランB)を用意します。
 
 ## 興味のあること
 
@@ -143,6 +147,7 @@
   - 主な担当業務
     - 機能開発
     - サンプル追加
+    - ドキュメント作成
 
 #### VR R&D (プロトタイピング)
 
@@ -175,7 +180,7 @@
 - VR危険予知動画向けの連動コントロールボックス
   - PCに接続し、指定されたタイミングでサンダーのスイッチをON-OFFするもの
 
-### 2012 - 2014頃 : ソーシャルゲーム会社
+### 2012 - 2014頃 : ソーシャルゲーム会社 2社
 
 - 社内情シス
 - 総務
