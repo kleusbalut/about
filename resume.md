@@ -72,7 +72,7 @@
 #### VR開発
 
 ---
-- **[Connect Chat](https://store.steampowered.com/app/1424930/Connect_Chat/) VR-SNS/VRイベントプラットフォーム**
+- **[DMM Connect Chat](https://store.steampowered.com/app/1424930/) VR-SNS/VRイベントプラットフォーム**
 
   <a href="https://connect-chat.vrlab.dmm.com/" target="_blank">
     <img src="./images/DMMConnectChatKeyVisual.jpg" width="480">
