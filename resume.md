@@ -201,6 +201,8 @@
 ### 過去の登壇資料
 *  歌舞伎座.tech#15 LT [Unity初心者がソーシャルVR向けの補助ツールを作った話](https://youtu.be/OiQqKWxRLE4)
 
+### 出展実績
+*  MakerFairTokyo2016 [クレウスのブース](https://makezine.jp/event/makers2016/kleus/)
 
 ### 執筆記事(個人)
 * [VR向けUI/UXの検討と、その歴史](https://qiita.com/kleus_balut/items/bc7cb294044e303e6940) 
