@@ -61,7 +61,12 @@
 
 ## 職務経歴
 
-### 2019/04 - 現在 : 合同会社DMM.com VRlab (VR事業部)
+### 2022/09 - 現在 : 現職(非公開)
+
+職務 : XRエンジニア
+
+---
+### 2019/04 - 2022/08 : 合同会社DMM.com VRlab (VR事業部)
 
 <a href="https://vrlab.dmm.com/" target="_blank">
   <img src="./images/DMMVRlab-square1@4x.png" width="128">
