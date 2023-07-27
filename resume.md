@@ -1,16 +1,19 @@
 # 職務経歴書
 
 ## 基本情報
-
+---
 |key|value|
 |---|-----|
 |Name|クレウス (kleus balut)|
-|Twitter|[@kleus_balut](https://twitter.com/kleus_balut)|
-|VRChat|kleus_balut|
+|Twitter(X)|[@kleus_balut](https://twitter.com/kleus_balut)|
+|misskey|[@kleus_balut@buicha.social](https://buicha.social/@kleus_balut)|
+|VRChat|[kleus_balut](https://vrchat.com/home/user/usr_8b5f4707-3744-41c0-b48a-192ae2f2dffe)|
+|居住地|長崎県|
 
-※ご連絡はTwitter DMですと反応が早いです。
+※ご連絡はTwitter(X) DMですと反応が早いです。
 
 ## スキル
+---
 ### プログラミング言語
 
 - 業務
@@ -38,7 +41,7 @@
   - 詳細は[以前の仕事](#以前の仕事)より
 
 ## 強み
-
+---
 - 実体験から必要なものを発想し、製作することができる
   - 例 : [VIVEBatteryInfo](https://kleusbalut.booth.pm/items/969809) 
 - 基板設計から筐体設計、出力までワンストップで行える
@@ -48,9 +51,9 @@
 - 本番に強い
   - 例 : VRライブ本番のタイムキーパーや、テレビの生中継用機材の準備、VR体験会の対応、VR登壇など
     - 本番までに必要な機材などを選定し準備のうえ、基本的にバックアップ体制(プランB)を用意します。
-
+ 
 ## 興味のあること
-
+---
 - VR
   - VR-SNSでのプレゼンス向上手法の検討
   - アバター利用によるユニフォーム効果の検証
@@ -60,31 +63,42 @@
   - AR-VR間のシームレスな体験移行方法の検討
 
 ## 職務経歴
-
+---
 ### 2022/09 - 現在 : 現職(非公開)
 
 職務 : XRエンジニア
 
+主な担当業務
+  - XRプロト開発
+  - WebGL開発 (Unity)
+    - アセット容量削減
+    - 既存プロジェクトへのAddressables導入
+    - ビルドスクリプト作成など
+  - 社内でのXR技術啓蒙活動
+    - VR-SNS(VRChat)勉強会 主宰
+    - XR体験会の開催
+    - 社内ナレッジ記事執筆
+  - グループ企業内XRプロジェクト参画
+
+
 ---
 ### 2019/04 - 2022/08 : 合同会社DMM.com VRlab (VR事業部)
 
-<a href="https://vrlab.dmm.com/" target="_blank">
-  <img src="./images/DMMVRlab-square1@4x.png" width="128">
-</a>
+<img src="./images/DMMVRlab-square1@4x.png" width="128">
 
 職務 : エンジニア
 
 #### VR開発
 
 ---
-- **[DMM Connect Chat](https://store.steampowered.com/app/1424930/) VR-SNS/VRイベントプラットフォーム**
+- **[サービス終了] [DMM Connect Chat](https://store.steampowered.com/app/1424930/) VR-SNS/VRイベントプラットフォーム**
 
   <a href="https://connect-chat.vrlab.dmm.com/" target="_blank">
     <img src="./images/DMMConnectChatKeyVisual.jpg" width="480">
   </a>
   <!-- めっちゃかわゆ -->
 
-  - 期間 : 2021/07 - 現在
+  - 期間 : 2021/07 - 2022/08
   - 担当 : Unityエンジニア
   - 環境 : Unity, C#
   - 主な担当業務
@@ -106,7 +120,7 @@
   - 担当 : Unityエンジニア
   - 環境 : Unity, C#
   - 主な担当業務
-    - プロトタイプ作成
+    - 初期プロトタイプ作成
     - 簡易なビルド・パブリッシングツール作成
     - UI実装
     - パブリッシング (Oculus/Steam)
@@ -140,7 +154,7 @@
 ---
 #### SDK開発
 
-- **[DMM VR Connect SDK](https://github.com/dmm-com/vrlab-dvrsdk)**
+- **[サービス終了] [DMM VR Connect SDK](https://github.com/dmm-com/vrlab-dvrsdk)**
 
   <a href="https://connect.vrlab.dmm.com/" target="_blank">
     <img src="./images/DMMVRConnectLogo.png" width="480">
@@ -174,7 +188,7 @@
   - 社内業務取り次ぎ
 
 ## 以前の仕事
-
+---
 ### 2014 - 2018頃 : 個人事業主
 
 案件の一部:
@@ -197,7 +211,7 @@
 - Ciscoスイッチの簡単な設定 (CCNA講習受講済)
 
 ## 個人での活動
-
+---
 ### 個人プロジェクト
 * [VIVEBatteryInfo](https://kleusbalut.booth.pm/items/969809) VRChat等VRアプリで使える、コントローラー/トラッカーバッテリー残量表示アプリ＋α
 * [アバターARカメラ撮影アプリ](https://kleus-balut.fanbox.cc/posts/1860508) Unity AR Foundationで作られたクロスプラットフォームのアバターARカメラ撮影アプリ
